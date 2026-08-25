@@ -45,3 +45,5 @@ Bank statement PDF + password
 ## Current project rule
 
 Do not create endless numbered versions. Build one coherent application and improve it in-place after testing.
+
+<!-- Pages deployment trigger -->
